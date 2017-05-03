@@ -1,0 +1,81 @@
+body {
+  background-image: url("https://img.clipartfox.com/0833ae495aa659544c1f2c98c29693d3_metal-iphone-6-wallpapers-black-clipart-1080x1920_1080-1920.jpeg/");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: #F5F5F5;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+h1 {
+  color: #357EAC;
+}
+
+h3 {
+  opacity: 0.8;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: #C1C1C1;
+  opacity: 1;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+a:hover {
+  color: #357EAC;
+  opacity: 0.8;
+}
+
+.bigger_size {
+  height: 40px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+#under_construction {
+  opacity: 0.5;
+}
+
+.round_pic {
+  border-radius: 50%;
+}
+
+
+.shadow{}
+
+.shadow:hover {
+  box-shadow: 2px 3px 1px #3E3D3C;
+}
+
+.bigger {
+  width: 300px;
+}
+
+.container {
+  width: 500px;
+  padding: 20px 20px 20px 20px;
+  margin: 30px auto;
+  background-color: #F3F3E9;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.card {
+  padding-top: 15px;
+  margin-top: 20px;
+}
